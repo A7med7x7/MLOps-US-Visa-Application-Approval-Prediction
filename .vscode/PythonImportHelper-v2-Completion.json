@@ -1,0 +1,37 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "project_name",
+        "kind": 5,
+        "importPath": "template",
+        "description": "template",
+        "peekOfCode": "project_name = \"us_visa\"\nlist_of_files = [\n    f\"{project_name}/__init__.py\",\n    f\"{project_name}/components/__init__.py\",\n    f\"{project_name}/components/data_ingestion.py\",  \n    f\"{project_name}/components/data_validation.py\",\n    f\"{project_name}/components/data_transformation.py\",\n    f\"{project_name}/components/model_trainer.py\",\n    f\"{project_name}/components/model_evaluation.py\",\n    f\"{project_name}/components/model_pusher.py\",",
+        "detail": "template",
+        "documentation": {}
+    },
+    {
+        "label": "list_of_files",
+        "kind": 5,
+        "importPath": "template",
+        "description": "template",
+        "peekOfCode": "list_of_files = [\n    f\"{project_name}/__init__.py\",\n    f\"{project_name}/components/__init__.py\",\n    f\"{project_name}/components/data_ingestion.py\",  \n    f\"{project_name}/components/data_validation.py\",\n    f\"{project_name}/components/data_transformation.py\",\n    f\"{project_name}/components/model_trainer.py\",\n    f\"{project_name}/components/model_evaluation.py\",\n    f\"{project_name}/components/model_pusher.py\",\n    f\"{project_name}/configuration/__init__.py\",",
+        "detail": "template",
+        "documentation": {}
+    }
+]
